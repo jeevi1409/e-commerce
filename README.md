@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📌 Project Overview
 TechStore is a fully responsive and interactive e-commerce website built using pure HTML, CSS, and JavaScript. It features a sleek, modern UI/UX with animations, a functional shopping cart system, and a mobile-first layout — all without any external frameworks or libraries.
 
@@ -23,8 +22,6 @@ JavaScript (ES6+) – Cart logic, DOM interactions
 Deployment – cloud 
 
 🌐 Live Demo
-🔗 Website: [Your Deployed URL Here]
+🔗 Website: http://51.20.9.59/
 
 =======
-# e-commerce
->>>>>>> 70a35fe5e56836baa2ce1b447b975dd06120126c
